@@ -1,0 +1,22 @@
+PyCitySchools Results Analysis
+--------------------------------------
+Analysis: 
+	For this analysis, two data sources were used to carry out 
+the findings. The first source consisted of information for every school in the district and
+the second source contained the scores for Math and Reading for every student in the district. 
+The analysis yielded a District Summary, a School Summary, the highest and lowest 5 performing schools in the district based on math and reading scores, summaries for math and reading scores per grade level for every school, a summary of scores based on categories of schools by budget per student, scores categorized by the schools sizes, and lastly, a summary dividing schools by type of school. 
+
+After viewing the results, the conclusions are as followed: 
+
+* Overall, Charter schools performed marginally better then District schools in both math and reading. Overall Passing Percentage for Charter schools was 90.43% compared to 53.67% for District Schools. 
+
+* The biggest attribute that we can correlate to the success of Charter schools is the school size or the total number of students. This fact can be observed through the highest and lowest performing schools analysis. The top 5 schools were small-to-medium sized Charter schools, while the bottom 5, were all large district schools.
+
+* School population was negatively correlated to overall passing scores. While small and medium sized schools were virtually equal, there was an abysmal deficit between the aforementioned and large sized schools. 
+
+* Going against the grain of logic, although it might seem natural to conclude that the money schools allocate per student directly relates to scores, the reality is actually the opposite. In this case, Budget per Student is negatively related to math, reading and overall scores. 
+
+--------------------------------------------
+Thoughts for further analysis: 
+
+	If the idea was to find a relationship between academic success and schools, we would need to explore further analysis using more data. Since budgets are negatively related to academic success in this scenario, maybe looking at data regarding teachers-per-student ratios would paint a better picture of the relationship between academic success and schools. 
